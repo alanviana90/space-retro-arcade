@@ -1,0 +1,6 @@
+{
+  "name": "Space Retro Arcade",
+  "description": "An addictive, high-performance native retro arcade shooter with fluid particle effects, boss battles, ship upgrades, and simulated AdMob advertising integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
